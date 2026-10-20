@@ -29,7 +29,7 @@ An Excel-based data analysis project focused on evaluating financial performance
 
 ## Dashboard Preview
 
-![Financial Performance Dashboard](dashboard overview.png)
+![Financial Performance Dashboard](<dashboard overview.png.png>)
 
 ## Key Insights
 - Achieved a gross profit margin of 53.23%.
